@@ -18,7 +18,7 @@ from tensorflow import keras
 
 PATH = "/home/markkhusidman/Desktop/Brandywine/"
 
-def update_table(start, end, usgs=False):
+def update_table(start, end):
 
     g_start = start
     g_end = end
